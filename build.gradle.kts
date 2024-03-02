@@ -5,9 +5,6 @@ plugins {
     alias(libs.plugins.loom)
 }
 
-group = "dev.jwall64"
-version = "1.0.0-SNAPSHOT"
-
 java {
     withSourcesJar()
     sourceCompatibility = JavaVersion.VERSION_17
