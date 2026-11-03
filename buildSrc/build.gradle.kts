@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.31")
-    implementation("com.gradleup.shadow:shadow-gradle-plugin:9.2.2")
-    implementation("net.fabricmc:fabric-loom:1.15-SNAPSHOT")
+    implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:2.3.21")
+    implementation("com.gradleup.shadow:shadow-gradle-plugin:9.6.1")
+    implementation("net.fabricmc:fabric-loom:1.19-SNAPSHOT")
 }
